@@ -1,0 +1,31 @@
+﻿  Main.cpp
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(284,22): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(295,22): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(306,22): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(315,22): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(343,23): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(350,23): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(365,23): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(378,22): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(433,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(443,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(476,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(478,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(508,21): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(539,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(546,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(553,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(560,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(562,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(564,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(566,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(569,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(577,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(585,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(597,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(606,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(616,21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(622,9): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ML\Desktop\M.M.M\V0.0002\Main.cpp(635,20): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  M.M.M.vcxproj -> C:\Users\ML\Desktop\M.M.M\V0.0002\x64\Debug\M.M.M.exe
